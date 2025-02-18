@@ -18,7 +18,7 @@ Gandiv5 LiveDNS API Location
 http://doc.livedns.gandi.net/#api-endpoint
 https://dns.api.gandi.net/api/v5/
 '''
-api_endpoint = 'https://dns.api.gandi.net/api/v5'
+api_endpoint = 'https://api.gandi.net/v5/livedns/'
 
 #your domain with the subdomains in the zone file/UUID 
 domain = 'mydomain.tld'
